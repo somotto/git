@@ -15,7 +15,7 @@ git log -n 2
 ```
 * Showing commits made within the last 5 minutes
 ```
-git log ---since="5 minutes ago"
+git log --since="5 minutes ago"
 ```
 ### Personalized Format
 ```
